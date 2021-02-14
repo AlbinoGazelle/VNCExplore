@@ -10,5 +10,5 @@ Requires [vncsnapshot](http://vncsnapshot.sourceforge.net/)
 Can install with `apt-get install vncsnapshot`
 
 # TODO
-Multithread
-Place results in seperate folder
+Multithread  
+Place results in seperate folder  
