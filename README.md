@@ -9,6 +9,6 @@ Simple python script to scrape VNC screenshots from a list of IP addresses.
 Requires [vncsnapshot](http://vncsnapshot.sourceforge.net/)
 Can install with `apt-get install vncsnapshot`
 
-#TODO
+# TODO
 Multithread
 Place results in seperate folder
